@@ -46,9 +46,4 @@ For a given user, items that have the highest **co-occurrence score** with their
 
 ---
 
-## 🖥️ How to Compile and Run
 
-### Step 1 — Clone or Download
-```bash
-git clone https://github.com/<your-username>/ecommerce-recommender-c.git
-cd ecommerce-recommender-c
